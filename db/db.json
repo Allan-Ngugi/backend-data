@@ -7,7 +7,7 @@
       "rating": 4,
       "category": "Whiskey",
       "description": "ABV: 40.5%",
-      "price": "5,200"
+      "price": 5200
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "rating": 4,
       "category": "Whiskey",
       "description": "ABV: 47%",
-      "price": "17,799"
+      "price": 17799
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "rating": 3,
       "category": "Whiskey",
       "description": "ABV: 45%",
-      "price": "9,850"
+      "price": 9850
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "rating": 5,
       "category": "Whiskey",
       "description": "ABV: 46%",
-      "price": ",7,800"
+      "price": 7800
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "rating": 3.5,
       "category": "Whiskey",
       "description": "ABV: 40%",
-      "price": "4,000"
+      "price": 4000
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "rating": 4,
       "category": "Whiskey",
       "description": "ABV: 47%",
-      "price": "5,450"
+      "price": 5450
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "rating": 3.5,
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": "5,000"
+      "price": 5000
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "rating": 3,
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": "2,100"
+      "price": 2100
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "rating": 4,
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": "2,200"
+      "price": 2200
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "rating": 4.5,
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": "2,100"
+      "price": 2100
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "rating": 3,
       "category": "Wines",
       "description": "ABV: 12%",
-      "price": "2,000"
+      "price": 2000
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "rating": 5,
       "category": "Wines",
       "description": "ABV: 7%",
-      "price": "1,500"
+      "price": 1500
     },
     {
       "id": 14,
@@ -115,7 +115,7 @@
       "rating": 4,
       "category": "Wines",
       "description": "ABV: 5%",
-      "price": "1,400"
+      "price": 1400
     },
     {
       "id": 15,
@@ -124,7 +124,7 @@
       "rating": 4,
       "category": "Wines",
       "description": "ABV: 13%",
-      "price": "2,300"
+      "price": 2300
     },
     {
       "id": 16,
@@ -133,7 +133,7 @@
       "rating": 3,
       "category": "Vodka",
       "description": "ABV: 37%",
-      "price": "1,450"
+      "price": 1450
     },
     {
       "id": 17,
@@ -142,7 +142,7 @@
       "rating": 5,
       "category": "Vodka",
       "description": "ABV: 45%",
-      "price": "4,300"
+      "price": 4300
     },
     {
       "id": 18,
@@ -151,7 +151,7 @@
       "rating": 4.5,
       "category": "Vodka",
       "description": "ABV: 40%",
-      "price": "3,780"
+      "price": 3780
     },
     {
       "id": 19,
@@ -160,7 +160,7 @@
       "rating": 3,
       "category": "Vodka",
       "description": "ABV: 37%",
-      "price": "1,700"
+      "price": 1700
     },
     {
       "id": 20,
@@ -169,7 +169,7 @@
       "rating": 5,
       "category": "Vodka",
       "description": "ABV: 37.5%",
-      "price": "5,250"
+      "price": 5250
     },
     {
       "id": 21,
@@ -178,7 +178,7 @@
       "rating": 4,
       "category": "Vodka",
       "description": "ABV: 40%",
-      "price": "2,195"
+      "price": 2195
     },
     {
       "id": 22,
@@ -187,7 +187,7 @@
       "rating": 5,
       "category": "Whiskey",
       "description": "ABV: 89% flavored Vodka",
-      "price": "5100"
+      "price": 5100
     },
     {
       "id": 23,
@@ -196,7 +196,7 @@
       "rating": 4,
       "category": "Vodka",
       "description": "ABV: 89%",
-      "price": "4,950"
+      "price": 4950
     },
     {
       "id": 24,
@@ -205,7 +205,7 @@
       "rating": 3,
       "category": "Vodka",
       "description": "ABV: 40%",
-      "price": "5,000"
+      "price": 5000
     },
     {
       "id": 25,
@@ -214,7 +214,7 @@
       "rating": 3.5,
       "category": "Vodka",
       "description": "ABV: 37%",
-      "price": "2,000"
+      "price": 2000
     },
     {
       "id": 26,
@@ -223,7 +223,7 @@
       "rating": 5,
       "category": "Gin",
       "description": "ABV: 37%",
-      "price": "3,200"
+      "price": 3200
     },
     {
       "id": 27,
@@ -232,7 +232,7 @@
       "rating": 4.5,
       "category": "Gin",
       "description": "ABV: 43%",
-      "price": "8,100"
+      "price": 8100
     },
     {
       "id": 28,
@@ -241,7 +241,7 @@
       "rating": 3,
       "category": "Gin",
       "description": "ABV: 40%",
-      "price": "2,500"
+      "price": 2500
     },
     {
       "id": 29,
@@ -250,7 +250,7 @@
       "rating": 5,
       "category": "Gin",
       "description": "ABV: 47%",
-      "price": "6,800"
+      "price": 6800
     },
     {
       "id": 30,
@@ -259,7 +259,7 @@
       "rating": 4,
       "category": "Gin",
       "description": "ABV: 47%",
-      "price": "15,700"
+      "price": 15700
     },
     {
       "id": 31,
@@ -268,7 +268,7 @@
       "rating": 5,
       "category": "Gin",
       "description": "ABV: 26%",
-      "price": "7,000"
+      "price": 7000
     },
     {
       "id": 32,
@@ -277,7 +277,7 @@
       "rating": 4,
       "category": "Vodka",
       "description": "ABV: 89%",
-      "price": "5,000"
+      "price": 4800
     },
     {
       "id": 33,
@@ -286,7 +286,7 @@
       "rating": 3,
       "category": "Gin",
       "description": "ABV: 40%",
-      "price": "5,000"
+      "price": 4500
     },
     {
       "id": 34,
@@ -295,7 +295,7 @@
       "rating": 3,
       "category": "Vodka",
       "description": "ABV: 45%",
-      "price": "5,000"
+      "price": 5000
     }
   ]
 }
