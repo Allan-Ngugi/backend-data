@@ -6,7 +6,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/jameson-black-barrel.webp",
       "category": "Whiskey",
       "description": "ABV: 40.5%",
-      "price": 5200
+      "price": 5200,  
+      "review": "Good liquor"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/willett-pot-still-reserve-bourbon-whiskey.webp",
       "category": "Whiskey",
       "description": "ABV: 47%",
-      "price": 17799
+      "price": 17799,
+      "review": "Best of class"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/eagle-rare-kentucky-straight-bourbon-whiskey.webp",
       "category": "Whiskey",
       "description": "ABV: 45%",
-      "price": 9850
+      "price": 9850,
+      "review": "Recommended"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/teeling-whiskey.webp",
       "category": "Whiskey",
       "description": "ABV: 46%",
-      "price": 7800
+      "price": 7800,
+      "review": "Exceptional"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/paddy-irish-whiskey.webp",
       "category": "Whiskey",
       "description": "ABV: 40%",
-      "price": 4000
+      "price": 4000,
+      "review": "Noteworthy"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/four-roses-bourbon-whiskey.webp",
       "category": "Whiskey",
       "description": "ABV: 47%",
-      "price": 5450
+      "price": 5450,
+      "review": "Superlative"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/rosso-nobile-cherry.webp",
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": 5000
+      "price": 5000,
+      "review": "Exceptional"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/rosso-nobile-marzipan.webp",
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": 2100
+      "price": 2100,
+      "review": "Recommended"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/bianco-nobile-white-sweet.webp",
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": 2200
+      "price": 2200,
+      "review": "Average"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/rosso-nobile-alla-nocciola.webp",
       "category": "Wines",
       "description": "ABV: 10%",
-      "price": 2100
+      "price": 2100,
+      "review": "very Good"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/4th-street-red-sweet.webp",
       "category": "Wines",
       "description": "ABV: 12%",
-      "price": 2000
+      "price": 2000,
+      "review": "Superb"
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/robertson-winery.webp",
       "category": "Wines",
       "description": "ABV: 7%",
-      "price": 1500
+      "price": 1500,
+      "review": "Average"
     },
     {
       "id": 14,
@@ -102,7 +114,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/black-bird-sweet-red.webp",
       "category": "Wines",
       "description": "ABV: 5%",
-      "price": 1400
+      "price": 1400,
+      "review": "Recommended"
     },
     {
       "id": 15,
@@ -110,7 +123,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/culemborg-cape-red.webp",
       "category": "Wines",
       "description": "ABV: 13%",
-      "price": 2300
+      "price": 2300,
+      "review": "very Good"
     },
     {
       "id": 16,
@@ -118,7 +132,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/flirt-vodka-green-apple.webp",
       "category": "Vodka",
       "description": "ABV: 37%",
-      "price": 1450
+      "price": 1450,
+      "review": "Superb"
     },
     {
       "id": 17,
@@ -126,7 +141,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/ciroc-coconut.webp",
       "category": "Vodka",
       "description": "ABV: 45%",
-      "price": 4300
+      "price": 4300,
+      "review": "World Class, Superlative"
     },
     {
       "id": 18,
@@ -134,7 +150,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/ketel-one.webp",
       "category": "Vodka",
       "description": "ABV: 40%",
-      "price": 3780
+      "price": 3780,
+      "review": "Recommended"
     },
     {
       "id": 19,
@@ -142,7 +159,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/magic-moments.webp",
       "category": "Vodka",
       "description": "ABV: 37%",
-      "price": 1700
+      "price": 1700,
+      "review": "Noteworthy"
     },
     {
       "id": 20,
@@ -150,7 +168,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/grey-goose.webp",
       "category": "Vodka",
       "description": "ABV: 37.5%",
-      "price": 5250
+      "price": 5250,
+      "review": "Exceptional"
     },
     {
       "id": 21,
@@ -158,7 +177,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/absoiut-vodka.webp",
       "category": "Vodka",
       "description": "ABV: 40%",
-      "price": 2195
+      "price": 2195,
+      "review": "Highly recommended"
     },
     {
       "id": 22,
@@ -166,7 +186,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/hapsburg-absinthe-cassis-xc.webp",
       "category": "Whiskey",
       "description": "ABV: 89% flavored Vodka",
-      "price": 5100
+      "price": 5100,
+      "review": "Best of class"
     },
     {
       "id": 23,
@@ -174,7 +195,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/hapsburg-absinthe-black-fruit-899.webp",
       "category": "Vodka",
       "description": "ABV: 89%",
-      "price": 4950
+      "price": 4950,
+      "review": "Highest Recommendation"
     },
     {
       "id": 24,
@@ -182,7 +204,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/belvedere-citrus.webp",
       "category": "Vodka",
       "description": "ABV: 40%",
-      "price": 5000
+      "price": 5000,
+      "review": "Highly recommended"
     },
     {
       "id": 25,
@@ -190,7 +213,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/kgb-vodka-limited-edition.webp",
       "category": "Vodka",
       "description": "ABV: 37%",
-      "price": 2000
+      "price": 2000,
+      "review": "Highest Recommendation"
     },
     {
       "id": 26,
@@ -198,7 +222,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/tanqueray-flor-de-sevilla-distilled-gin.webp",
       "category": "Gin",
       "description": "ABV: 37%",
-      "price": 3200
+      "price": 3200,
+      "review": "Average"
     },
     {
       "id": 27,
@@ -206,7 +231,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/inverroche-gin-classic.webp",
       "category": "Gin",
       "description": "ABV: 43%",
-      "price": 8100
+      "price": 8100,
+      "review": "Superb"
     },
     {
       "id": 28,
@@ -214,7 +240,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/larios-12.webp",
       "category": "Gin",
       "description": "ABV: 40%",
-      "price": 2500
+      "price": 2500,
+      "review": "Classic"
     },
     {
       "id": 29,
@@ -222,7 +249,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/monkey-47-dry-gin.webp",
       "category": "Gin",
       "description": "ABV: 47%",
-      "price": 6800
+      "price": 6800,
+      "review": " Average"
     },
     {
       "id": 30,
@@ -230,7 +258,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/monkey-47-barrel-cut.webp",
       "category": "Gin",
       "description": "ABV: 47%",
-      "price": 15700
+      "price": 15700,
+      "review": "World Class, Superlative"
     },
     {
       "id": 31,
@@ -238,7 +267,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/plymouth-sloe-gin.webp",
       "category": "Gin",
       "description": "ABV: 26%",
-      "price": 7000
+      "price": 7000,
+      "review": "Superb"
     },
     {
       "id": 32,
@@ -246,7 +276,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/lake-sloe-gin.webp",
       "category": "Vodka",
       "description": "ABV: 89%",
-      "price": 4800
+      "price": 4800,
+      "review": "Average"
     },
     {
       "id": 33,
@@ -254,7 +285,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/howling-owl.webp",
       "category": "Gin",
       "description": "ABV: 40%",
-      "price": 4500
+      "price": 4500,
+      "review": " Classic"
     },
     {
       "id": 34,
@@ -262,7 +294,8 @@
       "image": "https://storage.googleapis.com/drinksvine/products/beefeater-24-london-dry-gin.webp",
       "category": "Vodka",
       "description": "ABV: 45%",
-      "price": 5000
+      "price": 5000,
+      "review": "Recommended"
     }
   ]
 }
